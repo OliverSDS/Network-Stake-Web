@@ -18,11 +18,11 @@
         <div class="container"><a class="navbar-brand d-md-none" href="#"><img src="assets/img/logo.png" width="225" height="90" alt="Logo"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse d-md-flex w-50" id="navcol-1">
                 <ul class="navbar-nav d-flex justify-content-evenly mx-auto w-100">
-                    <li class="nav-item"><a class="nav-link text-center active" href="index.html"><i class="fas fa-home"></i>&nbsp;Home</a></li>
+                    <li class="nav-item"><a class="nav-link text-center active" href="index.php"><i class="fas fa-home"></i>&nbsp;Home</a></li>
                     <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;NYM</a></li>
                     <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;LUNC</a></li>
-                    <li class="nav-item"><a class="nav-link text-center" href="contact.html"><i class="far fa-comment-alt"></i>&nbsp;Contact</a></li>
-                </ul><a class="navbar-brand d-none d-md-block mx-auto" href="index.html"><img src="assets/img/logo.png" alt="Logo" width="170" height="47"></a>
+                    <li class="nav-item"><a class="nav-link text-center" href="contact.php"><i class="far fa-comment-alt"></i>&nbsp;Contact</a></li>
+                </ul><a class="navbar-brand d-none d-md-block mx-auto" href="index.php"><img src="assets/img/logo.png" alt="Logo" width="170" height="47"></a>
                 <ul class="navbar-nav d-flex justify-content-evenly mx-auto w-100">
                     <li class="nav-item"><a class="nav-link text-center" href="https://analytics.caspercommunity.io/dashboard/010efDD760777F234f79002CD10c90D95B742576D4214e31294826959461163596" target="_blank"><i class="fas fa-server"></i>&nbsp;Dashboard</a></li>
                     <li class="nav-item pb-2 pb-md-0"><a class="nav-link text-nowrap text-center" href="https://cspr.live/validator/01ca2c5b5475e72b5fe3f1d644e8abd1dc9ef7c6920c08f18aff6b3d0a486ead0f" target="_blank"><i class="fas fa-plus"></i>&nbsp;Stake Here Now</a></li>
@@ -40,7 +40,8 @@
                                 <h1 class="text-uppercase fw-bold" style="padding-left: 0px;margin-left: -159px;"><strong><span style="color: rgb(18, 18, 18);">Stake your CSPR tokens</span></strong><span style="color: rgb(18, 18, 18);">&nbsp;with Networkstake</span><br></h1>
                                 <p class="my-3" style="margin-left: -163px;"><span style="color: rgb(18, 18, 18);">Networkstake Mainnet Validator Node – Running a dedicated server on Hetzner with top overspecs hardware. AMD Ryzen™ 9 3900 12-Core / 128 GB DDR4 / 2x 1.92 TB / NVME SSD / 1 Gbps Bandwith</span></p>
                                 <p class="my-3" style="margin-left: -163px;"><span style="color: rgb(18, 18, 18);">Casper Staking enables cryptocurrency investors and regular token holders to profit</span><br></p>
-                            </div><iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=NetworkStake&amp;show_screen_name=true&amp;show_count=true" allowtransparency="true" frameborder="0" scrolling="no" title="Follow NetworkStake on Twitter" width="250" height="30" style="margin-top: 13px;margin-bottom: 11px;padding-bottom: 3px;padding-top: 0px;margin-left: 17px;padding-left: 0px;margin-right: -37px;padding-right: 82px;"></iframe>
+                            </div>
+
                         </div>
                     </div>
                 </div>
