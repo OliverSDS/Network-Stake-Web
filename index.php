@@ -5,6 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
     <title>Untitled</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/fontawesome-all.min.css">
     <link rel="stylesheet" href="assets/css/Boostrap-Tabs.css">
@@ -14,13 +18,13 @@
 </head>
 
 <body style="background: #f4f5f9;">
-    <nav class="navbar navbar-dark navbar-expand-md sticky-top bg-dark">
+    <nav class="navbar navbar-dark navbar-expand-md sticky-top bg-dark" style="margin-right: -13px;">
         <div class="container"><a class="navbar-brand d-md-none" href="#"><img src="assets/img/logo.png" width="225" height="90" alt="Logo"></a><button data-bs-toggle="collapse" class="navbar-toggler" data-bs-target="#navcol-1"><span class="visually-hidden">Toggle navigation</span><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse d-md-flex w-50" id="navcol-1">
                 <ul class="navbar-nav d-flex justify-content-evenly mx-auto w-100">
                     <li class="nav-item"><a class="nav-link text-center active" href="index.php"><i class="fas fa-home"></i>&nbsp;Home</a></li>
-                    <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;NYM</a></li>
-                    <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;LUNC</a></li>
+                    <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;NYM (Soon)</a></li>
+                    <li class="nav-item"><a class="nav-link text-center active" href="#" target="_blank"><i class="fas fa-fire"></i>&nbsp;LUNC(Soon)</a></li>
                     <li class="nav-item"><a class="nav-link text-center" href="contact.php"><i class="far fa-comment-alt"></i>&nbsp;Contact</a></li>
                 </ul><a class="navbar-brand d-none d-md-block mx-auto" href="index.php"><img src="assets/img/logo.png" alt="Logo" width="170" height="47"></a>
                 <ul class="navbar-nav d-flex justify-content-evenly mx-auto w-100">
@@ -42,6 +46,7 @@
                                 <p class="my-3" style="margin-left: -163px;"><span style="color: rgb(18, 18, 18);">Casper Staking enables cryptocurrency investors and regular token holders to profit</span><br></p>
                             </div>
 
+                            <iframe src="https://platform.twitter.com/widgets/follow_button.html?screen_name=networkstake&amp;show_screen_name=true&amp;show_count=true" allowtransparency="true" frameborder="0" scrolling="no" title="Follow NetworkStake on Twitter" width="250" height="30" style="margin-top: 13px;margin-bottom: 11px;padding-bottom: 3px;padding-top: 0px;margin-left: 17px;padding-left: 0px;margin-right: -37px;padding-right: 82px;"></iframe>
                         </div>
                     </div>
                 </div>
@@ -60,10 +65,10 @@
                     <p class="my-3"><span style="color: rgb(20, 23, 28);">Founded in 2018 by Medha Parlikar and Mrinal Manohar, Casper is the first real-time Proof-of-Stake (PoS) blockchain based on the Casper CBC specification. The Casper platform aims to promote the global adoption of blockchain technology, smart contracts and DApps.</span></p>
                 </div>
             </div>
-            <div class="col-md-6"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/p4J7LMif3bA" width="560" height="315" style="margin-right: -44px;padding-right: 45px;"></iframe></div>
+            <div class="col-md-6"><iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/p4J7LMif3bA" width="560" height="315" style="margin-right: -244px;padding-right: 262px;margin-left: 12px;"></iframe></div>
         </div>
     </div>
-    <div class="text-center text-white-50 bg-primary border rounded border-0 p-3" style="padding-left: 0px;margin-left: -74px;margin-right: -62px;background: linear-gradient(black 77%, white 100%);">
+    <div class="text-center text-white-50 bg-primary border rounded border-0 p-3" style="padding-left: 0px;background: linear-gradient(black 77%, white 100%);margin-left: -14px;margin-right: -15px;">
         <div class="row row-cols-2 row-cols-md-4">
             <div class="col">
                 <div class="p-3">
@@ -85,18 +90,7 @@
             <div class="col">
                 <div class="p-3">
                     <h4 class="display-5 fw-bold text-white mb-0">13%</h4>
-                    <p class="mb-0">Network APY</p>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="container py-4 py-xl-5" style="padding-top: 44px;margin-top: -24px;margin-bottom: -27px;">
-        <div class="row gy-4 gy-md-0">
-            <div class="col-md-6" style="background: #fbfbfb;"><img width="645" height="487" src="assets/img/1_MvWE1vQuLJH1jWAxP3-CBA-1-1024x776.png" style="margin-right: -45px;padding-right: 59px;"></div>
-            <div class="col-md-6 text-center text-md-start d-flex d-sm-flex d-md-flex justify-content-center align-items-center justify-content-md-start align-items-md-center justify-content-xl-center">
-                <div style="max-width: 350px;">
-                    <h2 class="text-uppercase fw-bold"><strong><span style="color: var(--nv-text-color) ;">How is Casper Beneficial?&nbsp;</span></strong><br></h2>
-                    <p class="my-3"><span style="color: var(--nv-text-color) ;">Casper’s fundamental attributes and strengths allow the developers and other enterprises to enjoy the benefits of&nbsp;blockchain&nbsp;technology.</span><br></p>
+                    <p class="mb-0">Erat netus</p>
                 </div>
             </div>
         </div>
